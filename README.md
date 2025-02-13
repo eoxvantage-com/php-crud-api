@@ -1,4 +1,4 @@
-# PHP-CRUD-API
+# EOX Vantage PHP-CRUD-API
 
 Single file PHP script that adds a REST API to a MySQL/MariaDB, PostgreSQL, SQL Server or SQLite database. 
 
