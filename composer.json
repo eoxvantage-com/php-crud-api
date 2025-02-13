@@ -1,5 +1,5 @@
 {
-  "name": "eoxvantage/php-crud-api",
+  "name": "mevdschee/php-crud-api",
   "type": "library",
   "description": "Single file PHP script that adds a REST API to a SQL database.",
   "keywords": [
