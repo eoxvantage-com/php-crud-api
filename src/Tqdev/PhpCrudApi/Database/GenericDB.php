@@ -81,7 +81,7 @@ class GenericDB
             case 'mysql':
                 return $options + [
                     \PDO::MYSQL_ATTR_FOUND_ROWS => true,
-                    \PDO::ATTR_PERSISTENT => true,
+                    \PDO::ATTR_PERSISTENT => false,
                 ];
             case 'pgsql':
                 return $options + [
