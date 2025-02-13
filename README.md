@@ -1,4 +1,4 @@
-# PHP-CRUD-API
+# PHP-CRUD-API Anuj
 
 Single file PHP script that adds a REST API to a MySQL/MariaDB, PostgreSQL, SQL Server or SQLite database. 
 
